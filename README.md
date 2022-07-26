@@ -24,7 +24,7 @@ THEN the password is either displayed in an alert or written to the page
 
 The first week of learning JavaScript was pretty though and as you can see inside the JS file, I have commented everything that happened with my code. 
 
-Please refer to the [script.js file in order to view the comments](/Users/cristinayunes/Desktop/03-javascript-challenge/assets/script.js)
+Please refer to the [script.js file in order to view the comments](../assets/script.js)
 
 **Please View the Final page here: [View my Password Generator](https://yuyitax.github.io/03-js-challenge/)
 
