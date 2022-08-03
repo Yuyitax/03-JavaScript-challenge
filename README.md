@@ -1,12 +1,9 @@
 # The JavaScript Password Generator Challenge
 
-## About the Project
-
 In this project you will be able to appreciate an application that generates random passwords with a length between 8 and 128 characters. The password is personalized according to the user's criteria. 
 
 
 Every detail of the functions and changes have a comment inside my code. Please refer to the scrip.js file in order to view these comments. [script.js](./assets/script.js)
-
 
 ## Acceptance Criteria for this project
 
